@@ -1,2 +1,2 @@
 # Photography-website
-This a photography website made by me.
+This  is a photography website made by me.
